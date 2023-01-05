@@ -1,6 +1,6 @@
 # TML-IssueType
 
-The issue classification scheme, consisting of the issue typology and the decision tree was developed in the TNTC project supported by the JSPS Grant-in-Aid for Scientific Research (A) 25240051: Archiving and Using Translation Knowledge to Construct Collaborative Translation Training Aid System and the JSPS Grant-in-Aid for Scientific Research (S) 19H05660: [Developing a Translation Process Model and Constructing an Integrated Translation Environment Through Detailed Descriptions of Translation Norms and Competences](https://tntc.p.u-tokyo.ac.jp/en/).
+The issue classification scheme, consisting of the issue typology and the decision tree, was developed in the TNTC project supported by the JSPS Grant-in-Aid for Scientific Research (A) 25240051: Archiving and Using Translation Knowledge to Construct Collaborative Translation Training Aid System and the JSPS Grant-in-Aid for Scientific Research (S) 19H05660: [Developing a Translation Process Model and Constructing an Integrated Translation Environment Through Detailed Descriptions of Translation Norms and Competences](https://tntc.p.u-tokyo.ac.jp/en/).
 
 ## Contents
 
@@ -13,6 +13,8 @@ The issue classification scheme, consisting of the issue typology and the decisi
 TML-IssueType-v1-EN was developed by Chiho Toyoshima, Kikuko Tanabe, and Atsushi Fujita. The details of its development are described in Fujita, Tanabe and Toytoshima (2022) and Fujita et al. (2017).
 
 The issue typology is the outcome of adapting the MNH-TT revision categories (Babych et al., 2012) to English-to-Japanese student translations. The MNH-TT revision categories (Babych et al., 2012) was developed on the basis of MeLLANGE (Castagnoli et al., 2006), with reference to Secară (2005) and Abekawa and Kageura (2008).
+
+The Excel file for download was created by Atsushi Fujita.
 
 ## Acknowledgements
 
