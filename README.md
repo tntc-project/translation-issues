@@ -10,7 +10,7 @@ The issue classification scheme, consisting of the issue typology and the decisi
 
 ## Author
 
-TML-IssueType-v1-EN was developed by Chiho Toyoshima, Kikuko Tanabe, and Atsushi Fujita. The details of its development are described in Fujita, Tanabe and Toytoshima (2022) and Fujita et al. (2017).
+TML-IssueType-v1-EN was developed by Chiho Toyoshima, Kikuko Tanabe, and Atsushi Fujita. The details of its development are described in Fujita, Tanabe and Toyoshima (2022) and Fujita et al. (2017).
 
 The issue typology is the outcome of adapting the MNH-TT revision categories (Babych et al., 2012) to English-to-Japanese student translations. The MNH-TT revision categories (Babych et al., 2012) was developed on the basis of MeLLANGE (Castagnoli et al., 2006), with reference to Secară (2005) and Abekawa and Kageura (2008).
 
